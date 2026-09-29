@@ -3,7 +3,7 @@
   "description": "A living banlist of the words, phrases, and structural tics that signal AI-generated writing - the ones to flag and scrub before a draft goes out. Free to reuse (CC0).",
   "url": "https://claudisms.ai/",
   "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "updated": "2026-09-01",
+  "updated": "2026-09-28",
   "count": 127,
   "terms": [
     {
@@ -271,7 +271,8 @@
       "id": "load-bearing",
       "term": "load-bearing",
       "aliases": [
-        "load-bearing"
+        "load-bearing",
+        "load bearing"
       ],
       "category": "Confirmed Claudisms",
       "definition": "- engineering metaphor that's become a tic.",
@@ -295,7 +296,14 @@
       "id": "here-s-where-it-gets-interesting",
       "term": "Here's where it gets interesting",
       "aliases": [
-        "Here's where it gets interesting"
+        "Here's where it gets interesting",
+        "here's the part that explains",
+        "here's the part that surprises",
+        "here's the part that bites",
+        "here is the thing nobody mentions",
+        "here is the argument in one line",
+        "here's the data that",
+        "here's the structure"
       ],
       "category": "Confirmed Claudisms",
       "definition": "- lecture-hall framing. Skips ahead without earning the turn.",
@@ -324,7 +332,15 @@
       "aliases": [
         "because it matters",
         "this matters",
-        "and that matters"
+        "and that matters",
+        "distinction matters",
+        "detail matters",
+        "interaction matters",
+        "timing matters",
+        "the one that matters most",
+        "the gap that matters",
+        "matter as much as",
+        "the reason to care"
       ],
       "category": "Confirmed Claudisms",
       "definition": "- presumptuous. Tells the reader what to value before they've decided. Same family as \"Here's where it gets interesting.\" Just say the thing without prefacing why it deserves attention.",
@@ -563,7 +579,9 @@
         "that's the whole game",
         "the whole ballgame",
         "the only thing that matters",
-        "that's the entire point"
+        "that's the entire point",
+        "that's the point",
+        "the foundation everything else sits on"
       ],
       "category": "Confirmed Claudisms",
       "definition": "- totalizing-superlative filler. Collapses a real point into a single all-or-nothing claim - nothing is ever literally \"the whole game.\" A specific instance of the broader aversion to absolute framing (always, never, every time): the superlative inflates one true thing into the only thing. Say what the thing actually does or unlocks and let it stand at its real size. Same family as the cool-people rule - it's announcing magnitude instead of demonstrating it. <strong>The ban is the construction, not just these nouns:</strong> any \"the whole [X]\" / \"the entire [X]\" / \"the only [X] that matters\" / \"the whole point of [Y]\" formulation is the same tic regardless of which noun fills the slot - \"the whole lesson,\" \"the whole story,\" \"the whole point,\" \"the whole job,\" \"the whole thing.\" A text search only matches the literal phrases listed above; novel nouns slip past, so this one has to be caught by eye on every pass.",
@@ -683,7 +701,17 @@
         "worth asking",
         "worth a look",
         "worth it",
-        "worth the"
+        "worth the",
+        "worth internalising",
+        "worth internalizing",
+        "worth knowing",
+        "worth taking seriously",
+        "worth treating as",
+        "worth explaining",
+        "worth following",
+        "worth having",
+        "deserves a moment",
+        "deserves a closer look"
       ],
       "category": "Confirmed Claudisms",
       "definition": "and any other \"worth [X]\" construction - the entire \"worth ___\" family is banned, not just the gerund forms enumerated below. If a sentence uses \"worth\" to tell the reader something deserves their attention/effort/consideration, cut it and let the thing demonstrate its own value. Same cool-people move every time.",
@@ -988,7 +1016,9 @@
         "doing the heavy lifting",
         "carrying the argument",
         "holding the sentence up",
-        "the noun is doing all the lifting"
+        "the noun is doing all the lifting",
+        "doing a lot of work",
+        "doing real work"
       ],
       "category": "Confirmed Claudisms",
       "definition": "- abstract-agency metaphor: a word, sentence, framing, or idea is personified as an employee performing labor. Reads as writerly shorthand and says nothing a reader can picture. The construction is a cousin of \"lives,\" \"holds,\" \"carries,\" and \"the engine\" (vivid placement/agency verb standing in for a plain statement), but it earns its own entry because it gets used constantly when writing about language, arguments, or framing. Say what actually happened in plain terms: \"the sentence only sounded smart because of the word,\" \"take the word out and there's nothing left.\" The test: could a reader draw what the sentence claims is happening? If a word is \"doing work,\" no.",
@@ -1018,7 +1048,11 @@
       "id": "announcing-the-structure-before-delivering-it",
       "term": "Announcing the structure before delivering it",
       "aliases": [
-        "Announcing the structure before delivering it"
+        "Announcing the structure before delivering it",
+        "two things to keep in mind",
+        "three terms do most of the work",
+        "two refinements matter",
+        "two things worth"
       ],
       "category": "Structural / framing tics",
       "definition": "- \"I'm going to make three points\" instead of just making them. Trust the reader to follow.",
@@ -1445,7 +1479,7 @@
         "cleft contrasts"
       ],
       "category": "Structural tics",
-      "definition": "(\"It's not just X, it's Y,\" \"Not only X, but Y,\" \"This isn't about X. It's about Y.\") - the most-cited AI tell anywhere. Wikipedia, Francis, and the WaPo analysis (6% of July 2025 ChatGPT messages) all flag this as the most recognizable AI structure. Banned outright. Note: this is a broader family than the \"the question that…\" cleft already in the list.",
+      "definition": "(\"It's not just X, it's Y,\" \"Not only X, but Y,\" \"This isn't about X. It's about Y.\") - the most-cited AI tell anywhere. Wikipedia, Francis, and the WaPo analysis (6% of July 2025 ChatGPT messages) all flag this as the most recognizable AI structure. Banned outright. Note: this is a broader family than the \"the question that…\" cleft already in the list. Two forms that slip past the templates above: the redefinition, where a thing is swapped for a grander noun (\"isn't cowardice, it's arithmetic,\" \"a difference of degree, not of kind\"), and the two-sentence mirror, which drops the \"not\" entirely (\"A demo is one sample from a distribution. Production is the distribution.\" / \"The demo works. That's the problem.\"). Same move, same fix: say the Y and leave the X out.",
       "url": "https://claudisms.ai/#negative-parallelism",
       "display": "Negative parallelism / cleft contrasts",
       "level": 3
